@@ -13,7 +13,7 @@ layout: default
 
 [17] J. Yang, H. Zhang, Y. Guo, R. J. Donohue, T. R. McVicar, S. Ferrier, W. Müller, X. Lü, Y. Fang, X. Wang, P. B. Reich, X. Han, and K. Mokany (2025). Mapping the multidecadal trends of terrestrial plant nitrogen stable isotope ratios globally. Under Review.
 
-[16] Y. Guo, K. Mokany, S. R. Levick, J. Yang, and P. Moghadam (2025). Spatioformer: A geo-encoded transformer for large-scale plant species richness prediction. _IEEE Transactions on Geoscience and Remote Sensing_.
+[16] Y. Guo, K. Mokany, S. R. Levick, J. Yang, and P. Moghadam (2025). Spatioformer: A geo-encoded transformer for large-scale plant species richness prediction. _IEEE Transactions on Geoscience and Remote Sensing_, 63, 4403216.
 
 [15] F. Zhao, W. Ma, J. Zhao, Y. Guo, M. Tariq, and J. Li (2024). Global retrieval of the spectrum of terrestrial chlorophyll fluorescence: First results with TROPOMI. _Remote Sensing of Environment_, _300_, 113903.
 
