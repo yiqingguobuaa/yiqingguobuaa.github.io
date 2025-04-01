@@ -6,8 +6,8 @@ permalink: /publication/2020-Activities
 excerpt: 'This column article focuses on the establishment and activities of the IEEE Geoscience and Remote Sensing Society UNSW Canberra Student Chapter.'
 date: 2020-09-21
 venue: 'IEEE Geoscience and Remote Sensing Magazine'
-paperurl: 'http://academicpages.github.io/files/2020-Activities-Paper.pdf'
-bibtexurl: 'http://academicpages.github.io/files/2020-Activities-Bib.bib'
+paperurl: 'http://yiqingguobuaa.github.io/files/2020-Activities-Paper.pdf'
+bibtexurl: 'http://yiqingguobuaa.github.io/files/2020-Activities-Bib.bib'
 citation: 'Y. Guo, J. Zhang, A. Farooq, X. Chen, and X. Jia (2020). Activities of the IEEE GRSS University of New South Wales Canberra Student Chapter, Australia [Column Article]. IEEE Geoscience and Remote Sensing Magazine, 8(3), 102–103.'
 ---
 **Abstract:** The IEEE Geoscience and Remote Sensing Society
