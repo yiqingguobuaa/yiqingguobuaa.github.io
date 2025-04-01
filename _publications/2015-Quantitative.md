@@ -3,7 +3,7 @@ title: "Quantitative estimation of fluorescence parameters for crop leaves with 
 collection: publications
 category: manuscripts
 permalink: /publication/2015-Quantitative
-excerpt: 'This study measured backward and forward fluorescence radiance of crop leaves using a hyperspectral spectroradiometer, performed sensitivity analysis on the FluorMODleaf model, and applied Bayesian inversion to retrieve key fluorescence parameters, demonstrating high accuracy in reconstructing fluorescence signals.'
+excerpt: 'This study measured backward and forward fluorescence radiance of crop leaves using a hyperspectral spectroradiometer, performed sensitivity analysis on the FluorMODleaf model, and applied Bayesian inversion to retrieve key fluorescence parameters.'
 date: 2015-10-27
 venue: 'Remote Sensing'
 paperurl: 'http://academicpages.github.io/files/2015-Quantitative-Paper.pdf'
