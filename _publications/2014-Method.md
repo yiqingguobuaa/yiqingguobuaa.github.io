@@ -1,4 +1,3 @@
-
 ---
 title: "A method to reconstruct solar-induced canopy fluorescence spectrum from hyperspectral measurements"
 collection: publications
