@@ -1,0 +1,13 @@
+---
+title: "Early detection of crop injury from herbicide glyphosate by leaf biochemical parameter inversion"
+collection: publications
+category: manuscripts
+permalink: /publication/2014-Early-2
+excerpt: 'This study demonstrates the feasibility of using PROSPECT model inversion on leaf hyperspectral reflectance data to detect glyphosate-induced injury in non-Glyphosate-Resistant (non-GR) soybean and cotton within 48 hours of treatment by tracking changes in leaf chlorophyll content.'
+date: 2014-10-23
+venue: 'International Journal of Applied Earth Observation and Geoinformation'
+paperurl: 'http://academicpages.github.io/files/2014-Early-2-Paper.pdf'
+bibtexurl: 'http://academicpages.github.io/files/2014-Early-2-Bib.bib'
+citation: 'F. Zhao, Y. Guo, Y. Huang, K. N. Reddy, M. A. Lee, R. S. Fletcher, and S. J. Thomson (2014). Early detection of crop injury from herbicide glyphosate by leaf biochemical parameter inversion. International Journal of Applied Earth Observation and Geoinformation, 31, 78–85.'
+---
+**Abstract:** Early detection of crop injury from herbicide glyphosate is of significant importance in crop management. In this paper, we attempt to detect glyphosate-induced crop injury by PROSPECT (leaf optical PROperty SPECTra model) inversion through leaf hyperspectral reflectance measurements for non-Glyphosate-Resistant (non-GR) soybean and non-GR cotton leaves. The PROSPECT model was inverted to retrieve chlorophyll content (Ca+b), equivalent water thickness (Cw), and leaf mass per area (Cm) from leaf hyperspectral reflectance spectra. The leaf stress conditions were then evaluated by examining the temporal variations of these biochemical constituents after glyphosate treatment. The approach was validated with greenhouse-measured datasets. Results indicated that the leaf injury caused by glyphosate treatments could be detected shortly after the spraying for both soybean and cotton by PROSPECT inversion, with Ca+b of the leaves treated with high dose solution decreasing more rapidly compared with leaves left untreated, whereas the Cw and Cm showed no obvious difference between treated and untreated leaves. For both non-GR soybean and non-GR cotton, the retrieved Ca+b values of the glyphosate treated plants from leaf hyperspectral data could be distinguished from that of the untreated plants within 48 h after the treatment, which could be employed as a useful indicator for glyphosate injury detection. These findings demonstrate the feasibility of applying the PROSPECT inversion technique for the early detection of leaf injury from glyphosate and its potential for agricultural plant status monitoring.
