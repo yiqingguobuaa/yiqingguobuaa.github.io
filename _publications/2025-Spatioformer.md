@@ -3,7 +3,7 @@ title: "Spatioformer: A geo-encoded transformer for large-scale plant species ri
 collection: publications
 category: manuscripts
 permalink: /publication/2025-Spatioformer
-excerpt: 'This study introduces Spatioformer, a model that integrates geolocation context with satellite imagery to predict plant species richness across large spatial scales, demonstrating its effectiveness in mapping Australia’s plant diversity and informing conservation efforts.'
+excerpt: 'This study introduces Spatioformer, a model that integrates geolocation context with satellite imagery to predict plant species richness across large spatial scales, which is employed to map Australia’s plant diversity.'
 date: 2025-01-27
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 paperurl: 'http://yiqingguobuaa.github.io/files/2025-Spatioformer-Paper.pdf'
