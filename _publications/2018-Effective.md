@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2018-Effective
 excerpt: 'This study proposes a sequential classifier training approach (SCT-SVM) for multitemporal remote sensing image classification, leveraging classifiers from previous images to reduce training sample requirements and improve accuracy, demonstrating its effectiveness on Sentinel-2A data over an Australian agricultural area.'
 date: 2018-02-22
-venue: 'IEEE Transactions on Geoscience and Remote Sensing'
+venue: 'IEEE Transactions on Image Processing'
 paperurl: 'http://academicpages.github.io/files/2018-Effective-Paper.pdf'
 bibtexurl: 'http://academicpages.github.io/files/2018-Effective-Bib.bib'
 citation: 'Y. Guo, X. Jia, and D. Paull (2018). Effective sequential classifier training for SVM-based multitemporal remote sensing image classification. IEEE Transactions on Image Processing, 27(6), 3036–3048.'
