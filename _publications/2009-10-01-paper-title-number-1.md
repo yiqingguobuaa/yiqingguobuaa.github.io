@@ -3,7 +3,7 @@ title: "Bidirectional reflectance effects over flat land surface from the charge
 collection: publications
 category: manuscripts
 permalink: /publication/2013-Bidirectional
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This study presents a method for extracting and normalizing hemispherical-directional reflectance factors (HDRFs) from HJ-1A and HJ-1B charge-coupled device (CCD) imagery using a semiempirical BRDF model, demonstrating the significance of directional effects and the feasibility of HDRF normalization for environmental monitoring.'
 date: 2013-12-16
 venue: 'Journal of Applied Remote Sensing'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
