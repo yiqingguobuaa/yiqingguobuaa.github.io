@@ -23,12 +23,12 @@ repository               : "yiqingguobuaa/yiqingguobuaa.github.io"
 author:
   # Biographic information
   avatar           : "yiqing_photo.jpg"
-  name             : "Yiqing Guo"
+  name             : "Yiqing Guo, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I am a Research Scientist at CSIRO, Australia"
   location         : "Canberra, Australia"
   employer         : "CSIRO Data61"
-  uri              : # URL
+  uri              : "https://people.csiro.au/G/Y/Yiqing-Guo"
   email            : "yiqing.guo.buaa@gmail.com" 
 
   # Academic websites
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "yiqing-guo-951074127"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
