@@ -9,13 +9,7 @@
 
 main:
   - title: "Publications"
-    url: /publications/  
-
-  - title: "Experience"
-    url: /experience/    
-    
-  - title: "Education"
-    url: /education/
+    url: /publications/
     
   - title: "CV"
     url: /cv/
