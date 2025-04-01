@@ -6,8 +6,8 @@ permalink: /publication/2015-Simulated
 excerpt: 'This study uses a Monte Carlo simulation model to investigate the impact of sensor field of view (FOV) and distance on field-measured bidirectional reflectance factors (BRFs) in row crops, providing recommendations to minimize measurement bias.'
 date: 2015-01-01
 venue: 'Remote Sensing of Environment'
-paperurl: 'http://academicpages.github.io/files/2015-Simulated-Paper.pdf'
-bibtexurl: 'http://academicpages.github.io/files/2015-Simulated-Bib.bib'
+paperurl: 'http://yiqingguobuaa.github.io/files/2015-Simulated-Paper.pdf'
+bibtexurl: 'http://yiqingguobuaa.github.io/files/2015-Simulated-Bib.bib'
 citation: 'F. Zhao, Y. Li, X. Dai, W. Verhoef, Y. Guo, H. Shang, X. Gu, Y. Huang, T. Yu, and J. Huang (2015). Simulated impact of sensor field of view and distance on field measurements of bidirectional reflectance factors for row crops. Remote Sensing of Environment, 156, 129–142.'
 ---
 **Abstract:** It is well established that a natural surface exhibits anisotropic reflectance properties that depend on the characteristics of the surface. Spectral measurements of the bidirectional reflectance factor (BRF) at ground level
