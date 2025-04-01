@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2018-Effective
 excerpt: 'This study proposes a sequential classifier training approach (SCT-SVM) for multitemporal remote sensing image classification, leveraging classifiers from previous images to reduce training sample requirements and improve accuracy, demonstrating its effectiveness on Sentinel-2A data over an Australian agricultural area.'
-date: 2017-04-27
+date: 2018-02-22
 venue: 'IEEE Transactions on Geoscience and Remote Sensing'
 paperurl: 'http://academicpages.github.io/files/2018-Effective-Paper.pdf'
 bibtexurl: 'http://academicpages.github.io/files/2018-Effective-Bib.bib'
