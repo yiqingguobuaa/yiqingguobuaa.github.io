@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Yiqing Guo (Yiqing is pronounced like /Yee-Ching/). Currently, I am a Research Scientist at CSIRO, Australia. [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=RIVnOZsAAAAJ&view_op=list_works&sortby=pubdate) [CV](https://drive.google.com/file/d/1oOVBcR-sJIv8DQbtmngcUdV7XqnGvptc/view?usp=drive_link)
+Hi, my name is Yiqing Guo (Yiqing is pronounced like /Yee-Ching/). Currently, I am a Research Scientist at CSIRO, Australia. Please see my [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=RIVnOZsAAAAJ&view_op=list_works&sortby=pubdate) and [CV](https://drive.google.com/file/d/1oOVBcR-sJIv8DQbtmngcUdV7XqnGvptc/view?usp=drive_link).
 
 I study remote sensing and machine learning, and apply these exciting techniques to agricultural, ecological
 and environmental problems.
@@ -18,7 +18,7 @@ South Wales, Canberra Campus, in 2019, all in remote sensing.
 
 After one and a half years of industry experience, I joined the
 Commonwealth Scientific and Industrial Research Organisation (CSIRO) in 2020, where
-I am now a Research Scientist working for CSIRO's AquaWatch Australia mission.
+I am now a Research Scientist with CSIRO Data61.
 
 I have authored/co-authored more than 20 peer-reviewed publications. My research outcomes have been published in top journals such as _Remote Sens. Environ._, _ISPRS J. Photogramm. Remote Sens._, _IEEE Trans. Image Process._, _IEEE Trans. Geosci. Remote Sens._, and _IEEE Geosci. Remote Sens. Magazine_.
 
@@ -69,6 +69,8 @@ I have authored/co-authored more than 20 peer-reviewed publications. My research
 [1] F. Zhao, X. Gu, T. Yu, W. Verhoef, **Y. Guo**, Y. Du, H. Shang, and H. Zhao (2013). Bidirectional reflectance effects over flat land surface from the charge-coupled device data sets of the HJ-1A and HJ-1B satellites. Journal of Applied Remote Sensing, 7(1), 073466.
 
 ### Conference Papers
+
+[11] Y. Guo, N. Cherukuru, E. Lehmann, S. L. Unnithan, G. Kerrisk, T. Malthus, and F. Islam (2025). Hyperspectral in situ remote sensing of water surface nitrate in the Fitzroy River estuary, Queensland, Australia, using deep learning. In Proceedings of the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS).
 
 [10] **Y. Guo**, K. Mokany, C. Ong, P. Moghadam, S. Ferrier, and S. R. Levick (2022). Quantitative assessment of DESIS hyperspectral data for plant biodiversity estimation in Australia. In Proceedings of the 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 1744-1747. 
 
