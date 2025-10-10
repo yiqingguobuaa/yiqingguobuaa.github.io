@@ -24,7 +24,7 @@ I have authored/co-authored more than 20 peer-reviewed publications. My research
 
 **Contact me at yiqing.guo.buaa@gmail.com**
 
-### Journal Articles
+## Journal Articles
 
 [21] J. Yang, H. Zhang, **Y. Guo**, R. J. Donohue, T. R. McVicar, S. Ferrier, W. Müller, X. Lü, Y. Fang, X. Wang, P. B. Reich, X. Han, and K. Mokany (2025). Globally mapping the nitrogen stable isotope ratios of terrestrial vegetation from 1984 to 2022. Earth’s Future. 
 
@@ -68,7 +68,7 @@ I have authored/co-authored more than 20 peer-reviewed publications. My research
 
 [1] F. Zhao, X. Gu, T. Yu, W. Verhoef, **Y. Guo**, Y. Du, H. Shang, and H. Zhao (2013). Bidirectional reflectance effects over flat land surface from the charge-coupled device data sets of the HJ-1A and HJ-1B satellites. Journal of Applied Remote Sensing, 7(1), 073466.
 
-### Conference Papers
+## Conference Papers
 
 [11] Y. Guo, N. Cherukuru, E. Lehmann, S. L. Unnithan, G. Kerrisk, T. Malthus, and F. Islam (2025). Hyperspectral in situ remote sensing of water surface nitrate in the Fitzroy River estuary, Queensland, Australia, using deep learning. In Proceedings of the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS).
 
@@ -91,11 +91,11 @@ I have authored/co-authored more than 20 peer-reviewed publications. My research
 
 [1] P. Zhang, F. Zhao, **Y. Guo**, Y. Zhao, L. Dong, and H. Zhao (2014). Sensitivity analysis of the row model’s input parameters. In Proceedings of the Third International Conference on Agro-Geoinformatics, 220–224.
 
-### Technical Reports
+## Technical Reports
 
 [1] Lau, Ian; Ong, Cindy; **Guo, Yiqing**; Caccetta, Mike. A 10-Year Analysis of Landsat 8 Continental Imagery to Identify Candidate Sites for Optical Vicarious Calibration and Validation in Australia. Australia: CSIRO; 2023. csiro:EP2023-5606. https://doi.org/10.25919/dxg8-8w19
 
-### Open Source Codes
+## Open Source Codes
 
 [4] **Y. Guo**, K. Mokany, S. R. Levick, J. Yang, and P. Moghadam (2025). Spatioformer. https://github.com/csiro-robotics/Spatioformer
 
@@ -105,7 +105,7 @@ I have authored/co-authored more than 20 peer-reviewed publications. My research
 
 [1] **Yiqing Guo**, Xiuping Jia, David Paull (2018) TASVM: A domain-transfer support vector machine for classifier-level domain adaptation [Source Code]. https://doi.org/10.24433/CO.9d860e02-91b0-4a6a-850d-d4f52754ca33
 
-### Published Datasets
+## Published Datasets
 
 [4] **Guo, Yiqing**; Mokany, Karel; Levick, Shaun; Yang, Jinyan; & Moghadam, Peyman (2024): AusRichness: A machine learning ready dataset for plant species richness prediction in Australia. v1. CSIRO. Data Collection. https://doi.org/10.25919/7d5h-yp05
 
@@ -115,13 +115,13 @@ I have authored/co-authored more than 20 peer-reviewed publications. My research
 
 [1] Lau, Ian; Ong, Cindy; **Guo, Yiqing**; Caccetta, Mike; Squire, Geoffrey; & Woodcock, Robert (2023): Landsat 8 Continental Analysis of Australia. v1. CSIRO. Data Collection. https://doi.org/10.25919/25p4-5r08
 
-### Theses
+## Theses
 
 [2] **Y. Guo** (2019). Quantitative rice mapping with remote sensing image time series. PhD Thesis. The University of New South Wales.
 
 [1] **Y. Guo** (2015). Early detection of crop stress with hyperspectral remote sensing data. Master’s Thesis. Beihang University [In Chinese]. Excellent Thesis Award
 
-### Granted Patents
+## Granted Patents
 
 [2] F. Zhao and **Y. Guo** (2014). A method for spectral feature extraction from hyperspectral reflectance data based on global sensitivity analysis. Patent Grant No.: CN103714341A
 
