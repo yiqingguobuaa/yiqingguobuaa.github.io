@@ -70,7 +70,7 @@ I have authored/co-authored more than 20 peer-reviewed publications. My research
 
 ## Conference Papers
 
-[11] Y. Guo, N. Cherukuru, E. Lehmann, S. L. Unnithan, G. Kerrisk, T. Malthus, and F. Islam (2025). Hyperspectral in situ remote sensing of water surface nitrate in the Fitzroy River estuary, Queensland, Australia, using deep learning. In Proceedings of the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS).
+[11] **Y. Guo**, N. Cherukuru, E. Lehmann, S. L. Unnithan, G. Kerrisk, T. Malthus, and F. Islam (2025). Hyperspectral in situ remote sensing of water surface nitrate in the Fitzroy River estuary, Queensland, Australia, using deep learning. In Proceedings of the 2025 IEEE International Geoscience and Remote Sensing Symposium (IGARSS).
 
 [10] **Y. Guo**, K. Mokany, C. Ong, P. Moghadam, S. Ferrier, and S. R. Levick (2022). Quantitative assessment of DESIS hyperspectral data for plant biodiversity estimation in Australia. In Proceedings of the 2022 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 1744-1747. 
 
