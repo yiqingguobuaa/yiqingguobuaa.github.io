@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Yiqing Guo (Yiqing is pronounced like /Yee-Ching/). Currently, I am a Research Scientist at CSIRO, Australia. Please see my [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=RIVnOZsAAAAJ&view_op=list_works&sortby=pubdate) and [CV](https://drive.google.com/file/d/1oOVBcR-sJIv8DQbtmngcUdV7XqnGvptc/view?usp=drive_link).
-
-I study remote sensing and machine learning, and apply these exciting techniques to agricultural, ecological
-and environmental problems.
+Hi, my name is Yiqing Guo (Yiqing is pronounced like /Yee-Ching/). Currently, I am a Research Scientist at CSIRO, Australia. 
+My research focuses on developing and applying AI methods for remote sensing data interpretation and environmental monitoring.
+Please see my [Google Scholar](https://scholar.google.com.au/citations?hl=en&user=RIVnOZsAAAAJ&view_op=list_works&sortby=pubdate) and [CV](https://drive.google.com/file/d/1oOVBcR-sJIv8DQbtmngcUdV7XqnGvptc/view?usp=drive_link).
 
 I received my PhD degree from the University of New
 South Wales, Canberra Campus, in 2019. After one and a half years of industry experience, I joined the
