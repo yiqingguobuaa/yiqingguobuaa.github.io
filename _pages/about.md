@@ -12,11 +12,8 @@ Hi, my name is Yiqing Guo (Yiqing is pronounced like /Yee-Ching/). Currently, I 
 I study remote sensing and machine learning, and apply these exciting techniques to agricultural, ecological
 and environmental problems.
 
-I received my bachelor’s and master’s degrees from Beihang University, in
-2012 and 2015, respectively, and my PhD degree from the University of New
-South Wales, Canberra Campus, in 2019, all in remote sensing.
-
-After one and a half years of industry experience, I joined the
+I received my PhD degree from the University of New
+South Wales, Canberra Campus, in 2019. After one and a half years of industry experience, I joined the
 Commonwealth Scientific and Industrial Research Organisation (CSIRO) in 2020, where
 I am now a Research Scientist with CSIRO Data61.
 
@@ -78,22 +75,23 @@ I have authored/co-authored more than 20 peer-reviewed publications. My research
 
 [8] **Y. Guo**, X. Jia, and D. Paull (2018). Mapping of rice varieties with Sentinel-2 data via deep CNN learning in spectral and time domains. In Proceedings of the 2018 International Conference on Digital Image Computing: Techniques and Applications (DICTA), 794–800.
 
-[7] **Y. Guo**, X. Jia, and D. Paull (2017). Sequential classifier training for rice mapping with multitemporal remote sensing imagery. In ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences, 4, 161–165. 
-[6] **Y. Guo**, X. Jia, and D. Paull (2017). A domain-transfer support vector machine for multi-temporal remote sensing imagery classification. In Proceedings of the 2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2215–2218. 
+[7] E. Madigan, **Y. Guo**, M. Pickering, A. Held, and X. Jia (2018). Quantitative monitoring of complete rice growing seasons using Sentinel 2 time series images. In Proceedings of the 2018 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 7699–7702.  
 
-[5] **Y. Guo**, X. Jia, and D. Paull (2016). Multi-kernel retrieval of land surface bidirectional reflectance distribution functions based on l1-norm optimization. In Proceedings of the 2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 1358–1361. 
+[6] **Y. Guo**, X. Jia, and D. Paull (2017). Sequential classifier training for rice mapping with multitemporal remote sensing imagery. In ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences, 4, 161–165.
 
-[4] **Y. Guo**, F. Zhao, Y. Huang, K. N. Reddy, Y. Zhao, and L. Dong (2014). Detection of the onset of crop stress induced by glyphosate using chlorophyll fluorescence measurements. In Proceedings of the Third International Conference on Agro-Geoinformatics, 560–564. Best Student Paper Award
+[5] **Y. Guo**, X. Jia, and D. Paull (2017). A domain-transfer support vector machine for multi-temporal remote sensing imagery classification. In Proceedings of the 2017 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 2215–2218. 
 
-[3] **Y. Guo**, F. Zhao, Y. Huang, M. A. Lee, K. N. Reddy, R. S. Fletcher, S. J. Thomson, and J. Huang (2013). Early detection of crop injury from glyphosate by foliar biochemical parameter inversion through leaf reflectance measurement. In Proceedings of the Second International Conference on Agro-Geoinformatics, 116–120. 
+[4] **Y. Guo**, X. Jia, and D. Paull (2016). Multi-kernel retrieval of land surface bidirectional reflectance distribution functions based on l1-norm optimization. In Proceedings of the 2016 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 1358–1361. 
 
-[2] E. Madigan, **Y. Guo**, M. Pickering, A. Held, and X. Jia (2018). Quantitative monitoring of complete rice growing seasons using Sentinel 2 time series images. In Proceedings of the 2018 IEEE International Geoscience and Remote Sensing Symposium (IGARSS), 7699–7702.  
+[3] **Y. Guo**, F. Zhao, Y. Huang, K. N. Reddy, Y. Zhao, and L. Dong (2014). Detection of the onset of crop stress induced by glyphosate using chlorophyll fluorescence measurements. In Proceedings of the Third International Conference on Agro-Geoinformatics, 560–564. **Best Student Paper Award**
 
-[1] P. Zhang, F. Zhao, **Y. Guo**, Y. Zhao, L. Dong, and H. Zhao (2014). Sensitivity analysis of the row model’s input parameters. In Proceedings of the Third International Conference on Agro-Geoinformatics, 220–224.
+[2] P. Zhang, F. Zhao, **Y. Guo**, Y. Zhao, L. Dong, and H. Zhao (2014). Sensitivity analysis of the row model’s input parameters. In Proceedings of the Third International Conference on Agro-Geoinformatics, 220–224.
+
+[1] **Y. Guo**, F. Zhao, Y. Huang, M. A. Lee, K. N. Reddy, R. S. Fletcher, S. J. Thomson, and J. Huang (2013). Early detection of crop injury from glyphosate by foliar biochemical parameter inversion through leaf reflectance measurement. In Proceedings of the Second International Conference on Agro-Geoinformatics, 116–120. 
 
 ## Technical Reports
 
-[1] Lau, Ian; Ong, Cindy; **Guo, Yiqing**; Caccetta, Mike. A 10-Year Analysis of Landsat 8 Continental Imagery to Identify Candidate Sites for Optical Vicarious Calibration and Validation in Australia. Australia: CSIRO; 2023. csiro:EP2023-5606. https://doi.org/10.25919/dxg8-8w19
+[1] Lau, Ian; Ong, Cindy; Caccetta, Mike; **Guo, Yiqing**. A 10-Year Analysis of Landsat 8 Continental Imagery to Identify Candidate Sites for Optical Vicarious Calibration and Validation in Australia. Australia: CSIRO; 2023. csiro:EP2023-5606. https://doi.org/10.25919/dxg8-8w19
 
 ## Open Source Codes
 
